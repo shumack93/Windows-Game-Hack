@@ -9,7 +9,11 @@ For testing, please follow the instructions provided in "Usage Instructions.pdf"
 Tools used for invincibilty/wall hacks:
 
 Visual Studio 2019 - IDE used to write code/debug.
+
 Git - Used for version control.
+
 C++ - All code was written using C++ (Windows.h library utilized).
+
 OpenGL - Utilized by the wall hack for drawing boxes around enemy players.
+
 CheatEngine - Used to track in-game memory addresses used.
