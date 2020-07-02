@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+C:\git\OSU_capstone\Cheat Suite\dllmain.cpp(69,71): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\git\OSU_capstone\Cheat Suite\dllmain.cpp(102,75): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  glDraw.cpp
+  glText.cpp
+  hook.cpp
+  proc.cpp
+  wallHack.cpp
+  Generating Code...
+  Cheat Suite.vcxproj -> C:\git\OSU_capstone\Cheat Suite\Debug\Cheat Suite.dll

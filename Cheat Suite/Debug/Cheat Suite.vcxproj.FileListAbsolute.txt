@@ -1,0 +1,2 @@
+C:\git\OSU_capstone\Cheat Suite\Debug\Cheat Suite.dll
+C:\git\OSU_capstone\Cheat Suite\Debug\Cheat Suite.pdb
